@@ -1,1 +1,2 @@
 accidents_with_weather.csv filter=lfs diff=lfs merge=lfs -text
+accidents.csv filter=lfs diff=lfs merge=lfs -text
